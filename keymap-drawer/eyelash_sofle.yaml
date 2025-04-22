@@ -86,7 +86,7 @@ layers:
   - $$mdi:mouse-left-click-outline$$
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - $$mdi:bluetooth-off$$
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
+  - +
   - '7'
   - '8'
   - '9'
@@ -99,7 +99,7 @@ layers:
   - Ctl+V
   - Ctl+Sft+V
   - {h: '$$mdi:arrow-up-bold$$', s: '$$mdi:bluetooth-connect$$'}
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
+  - '*'
   - '4'
   - {t: '5', s: '%'}
   - '6'
@@ -112,7 +112,7 @@ layers:
   - $$mdi:arrow-right-bold$$
   - Ctl+X
   - {h: '$$mdi:arrow-down-bold$$', s: '$$mdi:bluetooth-connect$$'}
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
+  - .
   - '1'
   - '2'
   - '3'

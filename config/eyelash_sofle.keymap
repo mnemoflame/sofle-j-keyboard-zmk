@@ -49,6 +49,7 @@
 &mt LA(LC(LEFT_SHIFT)) GRAVE  &kp Z   &kp X   &kp C             &kp V         &kp B                   &mkp MCLK  &kp N                  &kp M            &kp COMMA      &kp DOT  &kp FSLH  &mt RIGHT_GUI BACKSLASH
 &caps_word                    &none   &none   &kp LEFT_CONTROL  &lt 1 DELETE  &mt LEFT_SHIFT ENTER    &tb_cyc_dpi     &mt RIGHT_SHIFT SPACE  &lt 1 BACKSPACE  &kp RIGHT_ALT  &none    &none
             >;
+            sensor-bindings = <&inc_dec_kp C_VOLUME_UP C_VOL_DN>;
         };
 
         layer_1 {
